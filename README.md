@@ -2,7 +2,7 @@
 Print Shapes using C programming language
 
 # First Commit
-// 06/11/2019
+06/11/2019
 - hcn: hình chữ nhật
 - hcnr: hình chữ nhật rỗng
 - htc: hình thang cân
