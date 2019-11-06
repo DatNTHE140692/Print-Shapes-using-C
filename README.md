@@ -6,6 +6,8 @@ Print Shapes using C programming language
 - hcn: hình chữ nhật
 - hcnr: hình chữ nhật rỗng
 - htc: hình thang cân
+- hbh: hình bình hành
+- hthoi: hình thoi
 - hv: hình vuông
 - tgc: tam giác cân
 - tgd: tam giác đều
